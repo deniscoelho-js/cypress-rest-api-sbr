@@ -1,4 +1,4 @@
-# Cypress REST API SBR
+# Cypress REST API sbr
 
 <!-- <h1 align="center">
     <img alt="Layout Website" src="./cypress/images/cypress.png" width="100%" />
