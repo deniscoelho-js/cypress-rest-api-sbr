@@ -35,8 +35,8 @@ Siga os passos abaixo
 
 ```bash
 # Instale as dependências
-$ npm i or yarn
+$ npm i
 
 # Inicie o servidor
-$ npm run dev or yarn dev
+$ npx cypress open
 ```
